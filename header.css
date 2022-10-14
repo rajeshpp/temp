@@ -1,0 +1,27 @@
+code {
+  background-color: #eee;
+  border-radius: 3px;
+  font-family: courier, monospace;
+  padding: 0 3px;
+  tab-size: 4;
+  white-space: pre-line;
+}
+img {
+  max-width: 35%;
+}
+h1 {
+  color: tomato;
+  border-bottom: 8px solid #57c4d0;
+  display: inline-block;
+}
+
+h2{
+  color: rgb(255, 123, 0);
+  border-bottom: 8px solid #3572d4;
+  display: inline-block;
+}
+h3{
+  color: rgb(208, 166, 59);
+  border-bottom: 8px solid #5114d5;
+  display: inline-block;
+}
